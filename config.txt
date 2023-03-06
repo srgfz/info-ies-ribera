@@ -1,0 +1,3 @@
+cadena=jdbc:oracle:thin:@localhost:1521:XE
+usuario=matricula
+password=matricula_pwd
